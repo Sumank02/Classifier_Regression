@@ -1,3 +1,4 @@
+
 --------------------"Rinex_Project"--------------------
 
 Project 1:
@@ -12,3 +13,10 @@ Normalization/scaling, run a classifier/regression/cluster, individual predictio
 --Dataset--
 Mentioned in the same repository- (telecom.csv)
 - this dataset is about telecome empolyees from different regions.
+
+--Import Libraries--
+- Pyndas
+- Numpy
+- Matplotlib
+- Seaborn
+- Sickit-learn

@@ -15,7 +15,7 @@ Mentioned in the same repository- (telecom.csv)
 - This dataset is about telecome empolyees from different regions.
 
 --Import Libraries--
-- Pyndas
+- Pandas
 - Numpy
 - Matplotlib
 - Seaborn

@@ -12,7 +12,7 @@ Normalization/scaling, run a classifier/regression/cluster, individual predictio
 
 --Dataset--
 Mentioned in the same repository- (telecom.csv)
-- this dataset is about telecome empolyees from different regions.
+- This dataset is about telecome empolyees from different regions.
 
 --Import Libraries--
 - Pyndas

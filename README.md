@@ -20,3 +20,5 @@ Mentioned in the same repository- (telecom.csv)
 - Matplotlib
 - Seaborn
 - Sickit-learn
+
+Feel free to ask queries if facing any issues.
